@@ -1,0 +1,38 @@
+.mainbox2{
+    width: 500px;
+    height: 300px;
+    border: 1px solid rgb(86, 90, 102);
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgb(217, 140, 110);
+}
+#first{
+    margin-left: 10%;
+    border-radius: 10px;
+    padding: 2%;
+    
+}
+#second{
+    margin-left: 10%;
+    border-radius: 10px;
+    padding: 2%;
+    
+
+}
+#third{
+    margin-left: 10%;
+    border-radius: 10px;
+    padding: 2%;
+}
+#fourth{
+    margin-top: 30px;
+    margin-left: 10%;
+    width: 300px;
+    border-radius: 10px;
+    padding: 2%;
+}
+#post{
+    margin-top: 25px;
+    margin-left: 0%;
+    padding: 2%;
+}

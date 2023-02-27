@@ -1,0 +1,20 @@
+.row 
+{
+    display: flex;
+}
+
+#image{
+	height: inherit;
+	width: 600px;
+    height: 800px;
+}
+
+.heading{
+	margin-top: 150px;
+    color: green;
+} 
+
+.col1{
+    margin-left: 20%;
+    margin-top: 15%;
+}

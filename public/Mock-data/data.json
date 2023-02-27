@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "./Mock-data/images/10x.PNG",
+            "date": "12/02/2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Beautiful Big Sur",
+            "PostImage": "./Mock-data/images/bridge.jpg",
+            "date": "15/05/2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":30,
+            "description": "Off to Switzerland",
+            "PostImage":"./Mock-data/images/plane.jpg",
+            "date": "10/06/2022"
+            }
+            ]
+} 
